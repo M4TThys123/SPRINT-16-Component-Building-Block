@@ -1,8 +1,22 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Beschrijving
 
-# Naam deeltaak
+In deze repo vind je mijn `<FooterComponent>` voor de 
+vind je `CMD Midterm component library`. 
+
+### Structuur opzetten (team)
+
+We hebben samengewerkt in de repo van Daan
+[https://github.com/DaanKorver/cmd-midterm-components](https://github.com/DaanKorver/cmd-midterm-components)****
+
+### **Tools**
+
+- `Webstorm` code editor
+- `XD` design
+- `Notion` documentatie
+
+# Bronnen
+
+- [Atomic Desing](https://bradfrost.com/blog/post/atomic-web-design/#atoms)
 
 
 ## Licentie
