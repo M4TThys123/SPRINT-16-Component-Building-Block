@@ -1,7 +1,10 @@
 # Beschrijving
-
 In deze repo vind je mijn `<FooterComponent>` voor de 
 vind je `CMD Midterm component library`. 
+
+De documentatie vind je in mijn wiki
+- [Wiki](https://github.com/M4TThys123/SPRINT-16-Component-Building-Block/wiki)
+
 
 ### Structuur opzetten (team)
 
